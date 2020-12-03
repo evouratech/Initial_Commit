@@ -9,8 +9,8 @@ Clone down this repository. You will need node and npm installed globally on you
 Installation of [Node.js](https://nodejs.org/en/) 
 
 ```bash
-$ sudo apt install nodejs
-$ nodejs -v #Check whether installation was successful by looking for "node" version
+sudo apt install nodejs
+nodejs -v #Check whether installation was successful by looking for "node" version
 ```
 
 Installion of npm [npm](https://www.npmjs.com/) 
