@@ -25,8 +25,10 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding-top: 15px;
+  padding-right: 10px;
   text-decoration: none;
+  font-style: normal;
 }
 
 li a:hover:not(.active) {
@@ -40,7 +42,13 @@ li span{
 
 .active {
   background-color: #FF0000;
+  font-style: normal;
 }
+
+.ital {
+font-style: normal;
+}
+
 .footer{
     background-color: #ffffff;
     margin-top: 1000px;
@@ -65,5 +73,11 @@ h5 a {
 
 .row-copy {
   margin-left: 40%;
+}
+
+nav {
+  position: fixed;
+  overflow: hidden;
+  width: 100%;
 }
 
