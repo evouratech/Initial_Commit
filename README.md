@@ -25,6 +25,7 @@ npm start
 ```
 ## Reflection
 This is the project bulit as a front end of offficial website of zstream [zstream](https://www.zstream.in/). We started the process by using the **create-react-app** boilerplate.
+To learn React, check out the [React documentation](https://reactjs.org/docs/getting-started.html)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
